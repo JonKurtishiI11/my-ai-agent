@@ -1,4 +1,4 @@
-# My AI Agent — Kaggle 5-Day ADK Course
+# My AI Agent Kaggle 5-Day ADK Course
 
 Built with Google's Agent Development Kit (ADK) and Claude (Anthropic).
 
